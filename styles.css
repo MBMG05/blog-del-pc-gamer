@@ -1,0 +1,127 @@
+body {
+    background-color:rgb(15, 28, 36) ;
+    font-family: Arial;
+    width: 1860px;
+    height: 1080x;
+}
+
+h1 {
+    color: aqua;
+    background-color: transparent;
+    height: 40px;
+    
+    text-align: center;
+    margin: 10px;
+    padding: 40px;
+    justify-content: center;
+    font-family: sans-serif;
+    font-weight: 800;
+    background-color: rgba(126, 126, 126, 0.233);
+border: 2px aqua solid;border-radius: 200px;
+}
+
+
+#advertencia {
+font-size: 20px;  /* recomendacion de dispositivo*/
+}
+
+
+    /* SUBRAYADO*/
+u {
+    text-decoration: underline;
+
+}
+
+h2{
+color: rgb(255, 255, 255);
+text-align: center;
+font-family: sans-serif;
+font-weight: 400px;
+
+}
+#mail-inicio{
+    color: #fff;
+   text-align: center;
+
+}
+
+h3 {
+color: #fff;
+margin: 10px;
+
+border: 2px white;border-radius: 200px;
+background-color: rgba(126, 126, 126, 0.233);
+text-align: center;
+
+}
+
+#texto-principal{
+    width: 1845px;
+    margin: 10px;
+    padding: 0px;
+    color: #fff;
+    justify-content: center;
+}
+
+#texto-secundarioc{
+color: #fff;
+}
+
+h4{
+    font-size: x-large;
+text-align: center;
+color: rgb(255, 255, 255);
+}
+
+a:-webkit-any-link {/* hiperviculos color estilosy mas aqui!*/
+color: aqua;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#promos{
+color: rgb(255, 255, 255);/* redes sociales!*/
+border: 2px white;
+text-align: center;
+margin: 10px;
+}
+
+#boton-1{
+background-color:rgb(15, 28, 36) ;
+border-radius: 200px;
+width: 1800px;
+}
+
+#boton-p {
+color: #fff ;
+}
+#flecha-arriba{
+justify-content: flex-end;
+}
+strong{
+    font-weight: bold;
+    color: rgb(253, 249, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+footer { /* pie de pagina 😎!*/
+    display: block;
+    background-color: rgba(124, 124, 124, 0.342);
+    width: 1800px;
+    border: 2px aqua solid;
+    border-radius: 20px;
+    text-align: center;
+
+    align-items: center ;
+}
+
+#nvidea_gpu_cpu {
+justify-content: center;
+align-items: center;
+display: flex;
+border: 2px ;border-radius: 20px;
+}
+
+#nvidia-video {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
